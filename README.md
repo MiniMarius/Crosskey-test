@@ -1,7 +1,7 @@
 # Crosskey code test
 
 ## how to build
-run gradle build`
+run `gradle build`
 
 ## how to test
 run `gradle test`
