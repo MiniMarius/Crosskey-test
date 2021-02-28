@@ -1,10 +1,10 @@
 # Crosskey code test
 
 ## how to build
-`run gradle build`
+run gradle build`
 
 ## how to test
-`run gradle test`
+run `gradle test`
 
 ## how to run
 Before you can run the program, run this:
